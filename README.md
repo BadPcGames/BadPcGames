@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="assets/your-gif-name.gif" alt="My GIF">
+  <img src="https://drive.google.com/file/d/1oBFqk_02TSh4RLvX_MB5Q0sNOZxGYsZK/view?usp=drive_link" alt="My GIF">
 </div>
