@@ -1,3 +1,1 @@
-<div align="center">
-![vox (online-video-cutter com)](https://github.com/user-attachments/assets/9af75e37-2a0d-4085-a611-663ad22d4805)
-</div>
+![vox (online-video-cutter com)](https://github.com/user-attachments/assets/5d166801-5a44-4a4e-89e3-6cea4d984d38)
