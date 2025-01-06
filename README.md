@@ -1,3 +1,3 @@
 <p align="center">
-![vox (online-video-cutter com)](https://github.com/user-attachments/assets/bb6523b4-dbdf-4210-bb5b-01a08b316bf7)
+<img width="400" height="250" src="![vox (online-video-cutter com)](https://github.com/user-attachments/assets/23fbc401-0817-4f64-bbad-f8519729cbf6)">
 </p>
