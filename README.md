@@ -14,5 +14,3 @@
   <img width="100" height="100" src="https://github.com/BadPcGames/BadPcGames/blob/main/Unofficial_JavaScript_logo_2.svg.png">
 </p>
 
-# About me
-
